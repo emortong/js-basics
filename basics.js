@@ -46,4 +46,3 @@ var person = {
   name: "Spot"
  };
 
-
