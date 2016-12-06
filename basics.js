@@ -42,5 +42,8 @@ var person = {
  var dog = {
   bark: function() {
     console.log("Woof");
-  }
+  },
+  name: "Spot"
  };
+
+
